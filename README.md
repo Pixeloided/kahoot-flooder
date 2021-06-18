@@ -13,3 +13,6 @@ selenium,
 -
 webdriver_manager
 -
+
+I revamped the UI
+![](https://i.ibb.co/1m1MPh0/Screenshot-2021-06-17-215330.jpg)
